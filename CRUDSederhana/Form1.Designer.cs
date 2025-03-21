@@ -163,5 +163,6 @@ namespace CRUDSederhana
         private TextBox txtEmail;
         private TextBox txtTelepon;
         private TextBox txtAlamat;
+        private Button btnTambah;
         
 
