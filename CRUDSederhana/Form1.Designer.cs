@@ -10,4 +10,6 @@ namespace CRUDSederhana
     {
         private string connectionString = "Data Source=DESKTOP-PGJ5QLQ\\ANNISADIANAMARTA;Initial Catalog=OrganisasiMahasiswa;Integrated Security=True";
 
-       
+        private void Form1_Load(object sender, EventArgs e)
+        {
+      
