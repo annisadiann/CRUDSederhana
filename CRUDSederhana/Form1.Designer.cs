@@ -39,5 +39,7 @@ namespace CRUDSederhana
                     dgvMahasiswa.DataSource = dt;
                     ClearForm();
                 }
-                
+                catch (Exception ex)
+                {
+                    
 
