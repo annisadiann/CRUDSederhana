@@ -100,5 +100,6 @@ namespace CRUDSederhana
                     {
                         try
                         {
+                            string nim = dgvMahasiswa.SelectedRows[0].Cells["NIM"].Value.ToString();
                             
 
