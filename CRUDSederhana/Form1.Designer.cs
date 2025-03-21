@@ -159,5 +159,6 @@ namespace CRUDSederhana
         private Label label4;
         private Label label5;
         private TextBox txtNIM;
+        private TextBox txtNama;
         
 
