@@ -91,5 +91,7 @@ namespace CRUDSederhana
 
         private void BtnHapus(object sender, EventArgs e)
         {
-            
+            if (dgvMahasiswa.SelectedRows.Count > 0)
+            {
+                
 
