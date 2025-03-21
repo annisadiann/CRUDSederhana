@@ -153,5 +153,6 @@ namespace CRUDSederhana
             }
         }
 
-       
+        private Label label1;
+        
 
