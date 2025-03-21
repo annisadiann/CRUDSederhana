@@ -55,6 +55,9 @@ namespace CRUDSederhana
                     if (txtNIM.Text == "" || txtNama.Text == "" || txtEmail.Text == "" || txtTelepon.Text == "")
                     {
                         MessageBox.Show("Harap isi semua data", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                        
 
+                        return;
+                    }
+
+                    
 
