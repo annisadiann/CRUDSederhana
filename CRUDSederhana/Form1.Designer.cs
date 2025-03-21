@@ -167,5 +167,7 @@ namespace CRUDSederhana
         private Button btnHapus;
         private Button btnUbah;
         private Button btnRefresh;
-       
+        private DataGridView dgvMahasiswa;
+    }
+}
 
