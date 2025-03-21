@@ -161,5 +161,6 @@ namespace CRUDSederhana
         private TextBox txtNIM;
         private TextBox txtNama;
         private TextBox txtEmail;
+        private TextBox txtTelepon;
         
 
