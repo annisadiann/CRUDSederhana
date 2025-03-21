@@ -6,4 +6,6 @@ using System.Drawing.Printing;
 
 namespace CRUDSederhana
 {
-   
+    public partial class Form1 : Form
+    {
+        
