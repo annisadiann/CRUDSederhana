@@ -4,3 +4,6 @@ using System.Data.SqlClient;
 using System.Data;
 using System.Drawing.Printing;
 
+namespace CRUDSederhana
+{
+   
