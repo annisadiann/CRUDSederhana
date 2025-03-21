@@ -165,5 +165,6 @@ namespace CRUDSederhana
         private TextBox txtAlamat;
         private Button btnTambah;
         private Button btnHapus;
+        private Button btnUbah;
         
 
