@@ -59,5 +59,6 @@ namespace CRUDSederhana
                         return;
                     }
 
-                    
+                    conn.Open();
+                     
 
