@@ -166,5 +166,6 @@ namespace CRUDSederhana
         private Button btnTambah;
         private Button btnHapus;
         private Button btnUbah;
-        
+        private Button btnRefresh;
+       
 
