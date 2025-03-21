@@ -156,5 +156,6 @@ namespace CRUDSederhana
         private Label label1;
         private Label label2;
         private Label label3;
+        private Label label4;
         
 
